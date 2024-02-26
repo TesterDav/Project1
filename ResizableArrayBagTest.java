@@ -116,7 +116,7 @@ public class ResizableArrayBagTest extends ResizableArrayBag<String>{
 
         BagInterface<String> unionBag = bag1.union(bag2);
         assertTrue(unionBag.contains("house"));
-        assertFalse(unionBag.contains("plane"));
+        assertTrue(unionBag.contains("plane"));
     }
 
     @Test
