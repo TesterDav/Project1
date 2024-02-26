@@ -2,7 +2,7 @@
 # Group Name: Tester
 - **Full name:** [David Agekyan] (https://github.com/TemporaryUserGithub) daagekyan@cpp.edu (BagDriver, LinkedBag, LinkedBagTest, GitHub-Management)
 - **Full name:** [Kekoa Mcwilliams] (https://github.com/KekoaMcW) kkmcwilliams@cpp.edu (BagInterface, ResizeableArrayBag, ResizeableArrayBagTest)
-- **Extra Features?** [Yes, Unit test classes for both linked and array implementation of bags, used Junit 4.13.2 - import org.junit.Test; import static org.junit.Assert.*;] 
+- **Extra Features?** [Yes, Unit test classes for both linked and array implementation of bags, used Junit 4.13.2 - import org.junit.Test import static org.junit.Assert.*] 
 - **GitHub Repo:** [] 
 - **Screencast Video, Video with names, demo run (Uploaded on Vimeo):** [] 
 - **Screencast Software:** Open Source - OBS Studio 23.1.0 x64
